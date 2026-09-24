@@ -6,11 +6,15 @@ Use it to draw LED patterns, import images, create text banners, preview the res
 
 ## Download
 
-Download the Windows installer from this repository:
+Download the latest Windows installer from the Releases page:
+
+https://github.com/vangalvin/HaloStudio/releases/latest
+
+Under **Assets**, download:
 
 `HaloStudioSetup-1.0.0.exe`
 
-On GitHub, click the file name and then choose **Download raw file**.
+Using the Releases download helps us count how many times the installer has been downloaded.
 
 ## Install
 
